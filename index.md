@@ -9,3 +9,7 @@
 ```bash
 pip install numpy
 ```
+
+- [ ] Make markdown headings
+- [ ] Add an image
+- [ ] Add a code example
